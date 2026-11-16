@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "2E02-F62C-F45F-C025-4EF5-892C-BB8E-8046",
+  "customer": "Hoàng - Social",
+  "plan": "forever",
+  "issued": 1794813593,
+  "expires": null,
+  "id": "5daf6b8b-6e6d-46ba-979c-b25d897b1945"
+ },
+ "signature": "O40aO91H/zbFn+svPHC0R8KhSydZc6LPpFOb0NeI9+qc0DQjwY+550AlVoIGkaHZiOYQUMgKeexq9aH2ZS+nAw=="
+}

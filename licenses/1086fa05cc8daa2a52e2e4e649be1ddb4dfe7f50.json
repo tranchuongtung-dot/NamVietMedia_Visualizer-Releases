@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "CA8D-E538-F992-710F-49CE-6D4E-8C81-9CD2",
+  "customer": "Đỗ Trọng Tâm",
+  "plan": "forever",
+  "issued": 1794810172,
+  "expires": null,
+  "id": "b59d80c3-3439-4bed-ac19-ced95ac3ef22"
+ },
+ "signature": "pF3Uhx4++ZQ9JcRMH/EHCcgV3Mz9galzjSwq4T3Ibhm7fuZhH+Y8pAOT3xZucTLJsEQButpHf1WENBXOPQ1CDQ=="
+}

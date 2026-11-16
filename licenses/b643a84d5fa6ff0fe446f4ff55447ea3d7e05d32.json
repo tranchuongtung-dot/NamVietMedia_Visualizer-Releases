@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "D1C8-C1E8-A378-DA61-EEBA-4CDE-7F4D-B4DF",
+  "customer": "Le Thi Tinh",
+  "plan": "forever",
+  "issued": 1794832025,
+  "expires": null,
+  "id": "f2953e08-d95d-4b62-b346-665c1d33d4dc"
+ },
+ "signature": "4fsXlbrj79XClWe39VgCZ9WRhE7T6b+C1JyJiz/cGn/vaq7+d/ZHE2E72ZZn5p1P0UhkwgGEOkj0Fkxi8YJUAA=="
+}

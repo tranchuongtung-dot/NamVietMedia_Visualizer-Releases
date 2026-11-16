@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "9501-FB96-4701-9590-37C8-8435-A81C-A977",
+  "customer": "Bùi Anh Huy",
+  "plan": "forever",
+  "issued": 1794817938,
+  "expires": null,
+  "id": "9533a83c-5409-42c1-b995-e06c50601204"
+ },
+ "signature": "swCG6P6KBDMpJeVtumu81LjIJTGDDRRQ5FasRJkktwpYCe+RE/0/dEty39hu4HIMIMbAjp5XOEYsCsCTHxo9Cg=="
+}

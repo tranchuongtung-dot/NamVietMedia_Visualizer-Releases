@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "69BA-5155-1E65-3DC9-82F5-DF8C-4A52-8D26",
+  "customer": "Chang - Social",
+  "plan": "forever",
+  "issued": 1794814168,
+  "expires": null,
+  "id": "6de5076b-58d4-47ea-91b3-9c9f2c345265"
+ },
+ "signature": "XOe0nMG/Ucb2/yc5pkTJo74Tf8tWkXRJIRAZmRKF/KCNORZA7Qg5/mGVj+eRz5Szc3Thjl+dCpMOzNvxKT30BQ=="
+}

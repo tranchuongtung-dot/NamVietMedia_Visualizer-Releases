@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "08E6-F249-A8DC-5AF5-7123-8486-1DC9-E8F2",
+  "customer": "Phương Nguyễn",
+  "plan": "forever",
+  "issued": 1794814694,
+  "expires": null,
+  "id": "8b46ffe4-b6a1-42b6-891b-b600808be807"
+ },
+ "signature": "Gtgl8Vh06PWnqCUyekJCfF0tPFtnPnkmkhZ9i/WRN26WLYWBLOmw3L1PpokVSxtw9q7sIyR9LGMzw4dp5oa0Cg=="
+}

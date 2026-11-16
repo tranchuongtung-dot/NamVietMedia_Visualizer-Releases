@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "36A4-7C8E-4250-B1F4-DDF0-F3D5-9D5D-E86E",
+  "customer": "Anh Thư",
+  "plan": "forever",
+  "issued": 1794814619,
+  "expires": null,
+  "id": "91176cbb-6f54-4df9-92e4-8dbf5b017d5c"
+ },
+ "signature": "noAnz57hSQaV5W/D93QlmyXfwXcB/U4q+/hSsZyNOVTQSIm7EAl4yQ13BC8+mRJtPqi/L1JN1/UsD8kspPG4Cg=="
+}

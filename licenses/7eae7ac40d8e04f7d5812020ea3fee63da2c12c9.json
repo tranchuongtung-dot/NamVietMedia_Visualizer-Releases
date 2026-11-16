@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "DE13-F0C7-9D53-AAFD-544C-9C96-AB88-AFBE",
+  "customer": "Trần Thị Xuân Mai - Social",
+  "plan": "forever",
+  "issued": 1794814130,
+  "expires": null,
+  "id": "1d2afd16-7b1e-4d25-aaf6-a1aedee0bafe"
+ },
+ "signature": "szUDka3wcPKz8vD2gZjYONIszwwUXWMTyydB2cSYBi2AltZ9i4/wBFGPqFaer9zSqi6b9weum3Aige8DHIDhDw=="
+}

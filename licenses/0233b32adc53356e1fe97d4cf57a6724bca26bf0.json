@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "E6D5-5957-D695-60D6-AF1D-0BBE-8CEF-B678",
+  "customer": "Nguyễn Văn Huy",
+  "plan": "forever",
+  "issued": 1794818386,
+  "expires": null,
+  "id": "3cb45ff1-e752-4ad1-b551-fd5935b9a037"
+ },
+ "signature": "TsRsz7mkMdTrYozSsz6+j9w0mWpxIDVIgrkciB0OF/5rLNxYUCMWfMTtqE29apaFn+dS5fUeyVAdConH2falBw=="
+}

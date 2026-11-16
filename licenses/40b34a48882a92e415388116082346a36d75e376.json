@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "CF9A-9A71-C139-5683-687F-56C0-C635-8B1A",
+  "customer": "Minh Quân",
+  "plan": "forever",
+  "issued": 1794814910,
+  "expires": null,
+  "id": "2c6e45e8-6668-45b6-8b4b-aa3e7608b783"
+ },
+ "signature": "g0LhVnHGsnDm451Vrjv/GNFlb/oJfGAPF/iiDmpngLZdDzJWKEzrtjatBvGMBPbQf7EEy7xNrxeysmSeFrAbAw=="
+}

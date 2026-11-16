@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "073B-9B64-70FB-887A-67CC-4406-8719-CD5A",
+  "customer": "Trinh",
+  "plan": "forever",
+  "issued": 1794815685,
+  "expires": null,
+  "id": "98767120-55a6-4720-bff4-67e539619ceb"
+ },
+ "signature": "jXMr2VZVrUXhgdFFz+MwXMTGjnIbPbP7vqHR4D7WcwWm76YKjsBgtkQ40WfX2BeVyhSeAglmJkesqAZtL2c2Bg=="
+}

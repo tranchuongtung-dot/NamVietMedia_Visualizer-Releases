@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "7123-5093-0C98-0C33-6DD9-75C4-EAC2-2FB2",
+  "customer": "Minh Tới - Social",
+  "plan": "forever",
+  "issued": 1794812649,
+  "expires": null,
+  "id": "e5599831-d757-4eb6-827e-328f3b228c52"
+ },
+ "signature": "zAmpYO98WyKmXTekxavGD8ZUSBKaIE7cio1Mqw5bowc3Z/Mp0nQVZAM7oPkdFM3J6Vpup0TSinXPd42bskTYCw=="
+}

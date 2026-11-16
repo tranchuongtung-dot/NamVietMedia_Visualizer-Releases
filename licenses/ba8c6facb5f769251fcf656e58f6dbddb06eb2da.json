@@ -2,9 +2,12 @@
  "payload": {
   "version": 1,
   "product": "nv.namviet.visualizer",
-  "type": "revoke",
   "machine": "DF4C-C8A9-6138-ADB5-6BBA-020D-188B-5A61",
-  "issued": 1794815738
+  "customer": "Thương",
+  "plan": "forever",
+  "issued": 1794815773,
+  "expires": null,
+  "id": "fb8b2461-31f3-4499-b52f-2e74d2dcce99"
  },
- "signature": "yrd3gWWcAyD8LcyaZFB/B8i2j26C74XYlVZ8qezs2pclif2InZQhsCvNIEQ77bRBG2jie9OKqAqnWmU53LZIDg=="
+ "signature": "0fU2g3X7K/nXZ2Lqauy/daDcapjtqKsGXhakdNK+UNoV7RWdAJeqnWmyQn8svD8dPtR2wBTnl3QHRe3nbPYwBg=="
 }

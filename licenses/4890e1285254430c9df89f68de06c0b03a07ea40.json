@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "9DE9-D22C-4835-C7AA-1764-198C-73C0-772D",
+  "customer": "Mều Ú",
+  "plan": "forever",
+  "issued": 1794814347,
+  "expires": null,
+  "id": "729cfc8b-1c5c-45a6-a35f-964baf598306"
+ },
+ "signature": "pk3DHOsVXpRfgyFFX4J6SNkLvu431l/LrutVB7StUoDaZLOdrSxz6ng3K8GeJJ8PoJ7ozZpzwrYwUBq5wRDhDg=="
+}

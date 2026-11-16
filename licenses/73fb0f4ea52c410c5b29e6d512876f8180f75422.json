@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "802D-1DE0-3841-D68D-2E2F-7B66-834A-3761",
+  "customer": "Châu",
+  "plan": "forever",
+  "issued": 1794820248,
+  "expires": null,
+  "id": "b3f47b5b-2d6f-47ad-8cbe-3addcf63648e"
+ },
+ "signature": "fG82qgJORiCQxg+pL9xgMvfTgGsS0ScxbBDen5eyOuPpw+uF55GlvJm4RvDsHHHtNSme9UL3vbTZPzGS79E0AA=="
+}

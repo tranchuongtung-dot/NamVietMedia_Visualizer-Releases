@@ -2,9 +2,12 @@
  "payload": {
   "version": 1,
   "product": "nv.namviet.visualizer",
-  "type": "revoke",
   "machine": "3EFC-50A8-AAE1-B29C-7F4E-FCFE-BED5-5191",
-  "issued": 1794814685
+  "customer": "Anh Kha",
+  "plan": "forever",
+  "issued": 1794814699,
+  "expires": null,
+  "id": "231c4401-416a-423c-a401-8defb1eaa3cf"
  },
- "signature": "A+j1exXIA7KuGCS/7XIwgtbclmZ4WLXJCP8rwXXl/t7YGHJuPkj1bmmUPq2qfUSkkSVGCSc6UWgya1J96rr5Aw=="
+ "signature": "7V9jdevm/j25S9rNBbbFPKfpnX2yhCj70ye2dw3j8NBjxrx1d+tNup4HKSgn/O3QpNTY7RmdH1tOwnMxxl4gAA=="
 }

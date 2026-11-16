@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "D4D7-F3A5-1E5A-CCE1-83DD-4118-D36E-062E",
+  "customer": "Lê Văn Trị",
+  "plan": "forever",
+  "issued": 1794813757,
+  "expires": null,
+  "id": "87befcbe-dacd-4240-877f-4fe6e18eeb14"
+ },
+ "signature": "X66L5LEDxIQQYd0FHbVwz6trF7fufvwDc6FJQ4xJVEBp+Jy6M/HcKufVgrt7j3oqd1iDd/bn8Ia3ROr6mt+NBQ=="
+}

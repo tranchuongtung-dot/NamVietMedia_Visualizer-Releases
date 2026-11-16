@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "5F77-49AE-6995-1FAD-4427-C29D-370D-883D",
+  "customer": "Vũ",
+  "plan": "forever",
+  "issued": 1794815691,
+  "expires": null,
+  "id": "1807b199-14d3-44b0-a1a8-5e2d85019e44"
+ },
+ "signature": "wBw0VGHJgITbsrB+uypCDIC1fxZqdjV1pO8NsSIThzkWaF+HosWNtBv8Nfjh4UvzCwGIPbwFH1wBfXRiuuZeDQ=="
+}

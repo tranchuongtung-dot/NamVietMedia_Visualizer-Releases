@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "DF4C-C8A9-6138-ADB5-6BBA-020D-188B-5A61",
+  "customer": "Thương - Youtube",
+  "plan": "forever",
+  "issued": 1794815404,
+  "expires": null,
+  "id": "34adf8b2-373e-4998-af33-ded22451e5d9"
+ },
+ "signature": "NeHWpm+FLHsoK+TZhlEILk1pPqVt+7y6VbxMtlKXORCLG5qXy4Vk1VmEZlMaQaQTmbcJFcBFGTBiLgsCW3p5Dg=="
+}

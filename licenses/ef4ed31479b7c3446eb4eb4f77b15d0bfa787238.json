@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "3EFC-50A8-AAE1-B29C-7F4E-FCFE-BED5-5191",
+  "customer": "Anh Danh - Social 101kg",
+  "plan": "forever",
+  "issued": 1794813546,
+  "expires": null,
+  "id": "8cd1079f-cb57-49dc-a916-d2a321cb997a"
+ },
+ "signature": "fAvqAOqkfw2iwxV/jAOXpRNClotQlnvePFQSVmsWnA2bXMLcpEWdZk+6VZ56ksDTY5iEvHd+zSdwjZu+esLQCA=="
+}

@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "5574-E0F8-D093-2CF2-409D-890F-305E-B422",
+  "customer": "Huỳnh Mai",
+  "plan": "forever",
+  "issued": 1794819590,
+  "expires": null,
+  "id": "afb4dd5e-183a-42d9-a2d5-94e433545e5f"
+ },
+ "signature": "aDt85UFbxTfUdiyDcfJxC8OGruxzJDs9b1D+CxLe9ptkCbXoeXpOU+1xSsCdeawebeAoHcCQZw65inu1cj4YBg=="
+}

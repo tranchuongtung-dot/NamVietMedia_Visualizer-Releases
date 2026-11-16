@@ -2,12 +2,9 @@
  "payload": {
   "version": 1,
   "product": "nv.namviet.visualizer",
+  "type": "revoke",
   "machine": "D022-C7C7-F6EB-F453-A556-0B62-6548-6C71",
-  "customer": "Anh Quân",
-  "plan": "1m",
-  "issued": 1794751286,
-  "expires": 1797343286,
-  "id": "8154ea9e-512a-4970-a956-b7ff57408108"
+  "issued": 1794809844
  },
- "signature": "4hi9X8VifpwIDshwSwjKhm+Zaz3nY+2YZtsUqljzdGmdVFnnwAomToQgFrhZIQ0fS5FvlUcgRPxJO2W9iFIpBA=="
+ "signature": "4HnlgEIFgivBceWZcgTNj5fNGTospN7Tv/WUIIit9g3Q5zGs7CSkJ1/e4Ip0ojxZ+4kXAtKxwp1xZbCM6VHQAw=="
 }

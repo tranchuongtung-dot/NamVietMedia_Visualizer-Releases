@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "2C2F-BB60-1E03-303E-FBD6-AA1C-2E50-531F",
+  "customer": "Huấn - Youtube",
+  "plan": "forever",
+  "issued": 1794815122,
+  "expires": null,
+  "id": "7d6e1b8e-09a9-4c17-a5db-8fb42e5ed1b2"
+ },
+ "signature": "LlB6xACJH1eHZpPGOF7Y+7YEm5pdKIH0co5ld7rbJNyF98fPoEiaVY1TEOfvFnbrHYgqpl7H9IxUVlMjEsYmAg=="
+}

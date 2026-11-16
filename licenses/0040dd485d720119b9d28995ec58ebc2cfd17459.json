@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "C29A-69F3-3DB3-C45C-E6A5-2A0B-EE5C-4B76",
+  "customer": "Thuyên",
+  "plan": "forever",
+  "issued": 1794818622,
+  "expires": null,
+  "id": "57b0494e-4eba-4c9e-aca4-f0a0fde3350b"
+ },
+ "signature": "UUeFdSCUlNsLduK67zmidckSwtSk0Bh/jNE6yNoYZz2ve4FWgGCLkhFms95Env/+KskdJnpW8xxF8tcUI941CA=="
+}

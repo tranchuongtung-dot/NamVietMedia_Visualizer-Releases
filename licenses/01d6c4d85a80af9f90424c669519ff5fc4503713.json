@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "A876-F644-68B3-2003-A672-EC5D-5DF4-738F",
+  "customer": "Minh Trung - Youtube",
+  "plan": "forever",
+  "issued": 1794815328,
+  "expires": null,
+  "id": "6e0d4698-3af2-4152-b570-d3357eced232"
+ },
+ "signature": "PW3wo+PRpI5ii/tcB9lJUr/af3HfcmcUMO99l1/QEsZa5j8X1WPbAQYkwLQeVOyzl6ovzBslt+XZDJE+Y6PqBg=="
+}

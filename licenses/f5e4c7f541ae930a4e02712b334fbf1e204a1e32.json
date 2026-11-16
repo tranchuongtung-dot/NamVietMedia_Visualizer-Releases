@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "C5BC-3828-AC42-66B1-D969-2644-8CA9-D635",
+  "customer": "Kim Tuyền",
+  "plan": "forever",
+  "issued": 1794815415,
+  "expires": null,
+  "id": "cf182f2e-cc1a-44da-8b3c-a72ec9b0f5ce"
+ },
+ "signature": "ceNZpniur621d3vO9vEotIYEoj0vOdH7kSvN8PgQwpceLn7FsgBzi3kWzBSDhJACyRjdGRbxBlvbOzFy+ekOCQ=="
+}

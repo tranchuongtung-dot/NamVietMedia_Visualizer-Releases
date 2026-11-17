@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "A3CD-6CBE-F3C4-8F9F-5D3E-F54F-BCA0-EEB8",
+  "customer": "Cẩm Huyền",
+  "plan": "forever",
+  "issued": 1794901169,
+  "expires": null,
+  "id": "eda6827b-95d4-402f-9988-0655945a398b"
+ },
+ "signature": "KQaoh1W4cS/gvP9nfM4yPWS73ZWbi+1SKW/rd20eRJONGMAUEltMk3GG1dOHrvq8c9mZ7MJazQnfEfMl7HBXDQ=="
+}

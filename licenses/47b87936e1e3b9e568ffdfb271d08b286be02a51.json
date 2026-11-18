@@ -2,9 +2,12 @@
  "payload": {
   "version": 1,
   "product": "nv.namviet.visualizer",
-  "type": "revoke",
   "machine": "D022-C7C7-F6EB-F453-A556-0B62-6548-6C71",
-  "issued": 1794816127
+  "customer": "Quân",
+  "plan": "1m",
+  "issued": 1794992903,
+  "expires": 1797584903,
+  "id": "f810235e-975d-4bd8-b9df-399d335ad2e7"
  },
- "signature": "SjdQSGZwo3hXDfKxOwph+PVv77MYBbYccmMoFRqQL1ET9Q2KRjRvH2LBtN4RiOCOFE2/SgqGB/LHgbGvqv1KCg=="
+ "signature": "o0C60YqCsEReXH8abx62KUJd7Ex5iogIcIGzj7TI5UzXUe/m4O0ZNvGosWtPoO46zhdogAAztAwrrBzjR2zcDA=="
 }

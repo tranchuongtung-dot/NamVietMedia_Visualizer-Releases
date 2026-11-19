@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "2868-016C-334A-DE63-2E30-2004-0020-1780",
+  "customer": "Máy Chung Chạy Tools",
+  "plan": "forever",
+  "issued": 1795075712,
+  "expires": null,
+  "id": "2220f26f-8b9a-4767-8bf3-2242099b61d7"
+ },
+ "signature": "j5fKDuSIHn6rtgrQtoO0jqmXmjeStqawKXfxxtww1pR0VE1GsKLU8PaCPCS1VucY0gSkFRa4Vx1WHrms3AcLDA=="
+}

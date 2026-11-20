@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "D871-1807-D608-E9B8-C4FF-133A-5692-3FC3",
+  "customer": "Anh Kha - Home",
+  "plan": "forever",
+  "issued": 1795140377,
+  "expires": null,
+  "id": "1e2a26b9-d220-4f3f-8527-b6b7cb857c09"
+ },
+ "signature": "CQ53ww4s10Hh16YIPKtGHXgog2AoxV8LSBnpuMj0skBrZJVn0TcJfVdXVQb+xal+FQv+Gdy1OOH4J9/XV/sUDQ=="
+}

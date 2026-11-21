@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "D504-CC68-9302-50DF-E89E-73B4-26C5-5355",
+  "customer": "NGUYỄN NGỌC VINH",
+  "plan": "1y",
+  "issued": 1795269058,
+  "expires": 1826805058,
+  "id": "dfb5f87c-16fb-43d5-bea6-e1370f22527b"
+ },
+ "signature": "hahQ8BF24MuBt86BGMDeNR62kIdxoXRTf0syg3UmgurDfPVeKv6car5A3j7Z4NUbi2ug6i++mOwmCUT9vJRVCA=="
+}

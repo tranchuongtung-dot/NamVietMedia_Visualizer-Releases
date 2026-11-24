@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "B3BF-37C3-B22A-DFC1-898D-FA68-6CFC-2D0C",
+  "customer": "Phương Nguyễn - Home",
+  "plan": "forever",
+  "issued": 1795532674,
+  "expires": null,
+  "id": "bfd8395f-f642-4dc6-a1e6-9bd548b1aafb"
+ },
+ "signature": "QBu4MSMEHItpfZRGIzx0MzxwaqU4QWdQAY04rkQ/Csvky4b+yopily7XHYhC2a+vxTy3LkODXM0AVYPphRkKDw=="
+}

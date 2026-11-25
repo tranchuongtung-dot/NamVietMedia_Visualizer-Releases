@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "83BF-B32C-02A8-B760-8A5E-2D0D-2DDC-9D7B",
+  "customer": "Đức Anh",
+  "plan": "forever",
+  "issued": 1795597384,
+  "expires": null,
+  "id": "07f6fa88-9f33-46df-ab60-dff92f905cac"
+ },
+ "signature": "yCdHUrFCrhAuSfBd756Dq3zsm0KxZmi5lN+adyVXTn/4x1iswcmpIlODWe+hBSgbbhKwLEaV6bawylgUCHPIAQ=="
+}

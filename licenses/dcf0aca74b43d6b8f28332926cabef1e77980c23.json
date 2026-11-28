@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "nv.namviet.visualizer",
+  "machine": "518E-C703-AA20-7D9C-8C38-A3DC-64DD-843B",
+  "customer": "Ngọc Lan - Home",
+  "plan": "forever",
+  "issued": 1795834301,
+  "expires": null,
+  "id": "2e520f20-73d9-4f94-b222-ca9a3ca23b54"
+ },
+ "signature": "M5NGLHgLaB+n2LxqKRN4uM+LXgr8XNIxbN3RLstPefFUz5fWJgureoqaeCpZA8R5LRLZeLYysoyxLp1Evpi/CQ=="
+}
